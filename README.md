@@ -1,2 +1,2 @@
-# first-project
-Trying out new git
+#first-project
+This is the first time trying out this project
